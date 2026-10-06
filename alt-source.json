@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2610.142",
+          "date": "2026-10-07",
+          "localizedDescription": "Release OwlHub 4.2610.142.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.142/OwlHub-4.2610.142.ipa",
+          "size": 11973490,
+          "sha256": "03822a1f19211592c8988bea821329e9a78470e50b4fb964629946e4381bb888",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2610.141",
           "date": "2026-10-06",
           "localizedDescription": "Release OwlHub 4.2610.141.",
