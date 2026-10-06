@@ -1,0 +1,36 @@
+{
+  "name": "OwlHub",
+  "identifier": "com.kapegufeto.owlhub",
+  "sourceURL": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/alt-source.json",
+  "apps": [
+    {
+      "name": "OwlHub",
+      "bundleIdentifier": "com.kapegufeto.owltracker",
+      "developerName": "editedbykappe",
+      "subtitle": "OwlTracker",
+      "localizedDescription": "Gestione personale di movimenti e Tracker.",
+      "iconURL": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/app-icon.png",
+      "tintColor": "#27649F",
+      "category": "finance",
+      "versions": [
+        {
+          "version": "4.2610.140",
+          "date": "2026-10-06",
+          "localizedDescription": "Release OwlHub 4.2610.140.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.140/OwlHub-4.2610.140.ipa",
+          "size": 11974387,
+          "sha256": "7cef6fc1da8fdfd42a9b2de9d9ba7b2874f7f8a3a3467f3a808260373757b05e",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "OwlHub usa la fotocamera per fotografare e leggere uno scontrino sul dispositivo e proporti una nuova voce.",
+          "NSPhotoLibraryUsageDescription": "OwlHub usa una foto dello scontrino scelta dalla libreria per leggerla sul dispositivo e proporti una nuova voce.",
+          "NSFaceIDUsageDescription": "Usa Face ID per sbloccare OwlHub sul tuo dispositivo."
+        }
+      }
+    }
+  ]
+}

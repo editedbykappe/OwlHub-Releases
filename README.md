@@ -1,7 +1,9 @@
 # OwlHub Releases
 
-Questo repository pubblico ospita solo metadati di release e, in futuro, artifact verificati. Il codice sorgente, le credenziali e i dati personali restano fuori da qui.
+Questo repository pubblico ospita esclusivamente manifest, metadati e artifact verificati delle release OwlHub.
 
-`manifest.json` pubblica la versione corrente. I campi `windows` e `ios` restano `null` finché un installer o un’IPA non supera la verifica di checksum e sicurezza. Un campo assente non attiva un aggiornamento nell’app.
+- `manifest.json` segue il contratto dell'updater OwlHub per Windows e iOS.
+- `alt-source.json` descrive l'IPA per SideStore/AltStore; l'IPA unsigned viene rifirmata dal client di sideload.
+- Gli artifact binari, i checksum e i metadata sono pubblicati nella GitHub Release corrispondente.
 
-L’AltSource SideStore verrà pubblicata soltanto quando l’IPA sarà disponibile tramite URL HTTPS pubblico e non conterrà credenziali incorporate.
+Il manifest viene aggiornato soltanto dopo che gli artifact referenziati sono disponibili e verificati.
