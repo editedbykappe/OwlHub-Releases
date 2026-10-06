@@ -5,7 +5,7 @@
   "publishedAt": "2026-10-06T15:59:58Z",
   "releaseNotes": "Release OwlHub 4.2610.140 per Windows e iOS.",
   "windows": {
-    "url": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.140/OwlHub-4.2610.140-Windows-Setup.exe",
+    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2610.140/OwlHub-4.2610.140-Windows-Setup.exe",
     "sha256": "2030bce6c4b0cbba14c1588335339524ec8dd95bcc44b808c6eeef5081e293c5"
   },
   "ios": {
