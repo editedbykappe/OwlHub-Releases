@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "4.2610.143",
-  "buildNumber": 143,
-  "publishedAt": "2026-10-07T12:08:29Z",
-  "releaseNotes": "Release OwlHub 4.2610.143 per Windows e iOS.",
+  "latestVersion": "4.2610.144",
+  "buildNumber": 144,
+  "publishedAt": "2026-10-07T19:15:58Z",
+  "releaseNotes": "OwlHub 4.2610.144: navigazione e statistiche ottimizzate per storico esteso. UI e Sync invariati.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2610.143/OwlHub-4.2610.143-Windows-Setup.exe",
-    "sha256": "1037c86a78c869b5e237c20dfb6308801c09b5aa636dc264ba103649235c3609"
+    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2610.144/OwlHub-4.2610.144-Windows-Setup.exe",
+    "sha256": "1ae707b59ed0c15208416d18736eaa223557de96ba92cf2bc39322506c586187"
   },
   "ios": {
-    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.143/OwlHub-4.2610.143.ipa",
-    "sha256": "2fc7d2502e52d904ece8e66f96750589310088c3bbc4c24e4440d562e4b1897b"
+    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.144/OwlHub-4.2610.144.ipa",
+    "sha256": "d37f9ce8b7bc88c24b8f8a72c8e93db42e5473d0974e669a800ad50dc1e90825"
   },
   "altSourceUrl": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/alt-source.json"
 }
