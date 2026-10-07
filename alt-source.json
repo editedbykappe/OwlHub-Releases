@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2610.144",
+          "date": "2026-10-07",
+          "localizedDescription": "OwlHub 4.2610.144: performance con storico esteso.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.144/OwlHub-4.2610.144.ipa",
+          "size": 11993181,
+          "sha256": "d37f9ce8b7bc88c24b8f8a72c8e93db42e5473d0974e669a800ad50dc1e90825",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2610.143",
           "date": "2026-10-07",
           "localizedDescription": "Release OwlHub 4.2610.143.",
