@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "4.2610.144",
-  "buildNumber": 144,
-  "publishedAt": "2026-10-07T19:15:58Z",
-  "releaseNotes": "OwlHub 4.2610.144: navigazione e statistiche ottimizzate per storico esteso. UI e Sync invariati.",
+  "latestVersion": "4.2610.145",
+  "buildNumber": 145,
+  "publishedAt": "2026-10-08T10:27:39Z",
+  "releaseNotes": "OwlHub 4.2610.145: hotfix integrità Sync, ghost, DEC e restore Backup V2 grande.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2610.144/OwlHub-4.2610.144-Windows-Setup.exe",
-    "sha256": "1ae707b59ed0c15208416d18736eaa223557de96ba92cf2bc39322506c586187"
+    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2610.145/OwlHub-4.2610.145-Windows-Setup.exe",
+    "sha256": "54d31818b746deb4c6ad992def4e07933b91c790524b2b71696b83a90ecf45a2"
   },
   "ios": {
-    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.144/OwlHub-4.2610.144.ipa",
-    "sha256": "d37f9ce8b7bc88c24b8f8a72c8e93db42e5473d0974e669a800ad50dc1e90825"
+    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.145/OwlHub-4.2610.145.ipa",
+    "sha256": "92258a980a9c951e47d9343cff0842085f4c872312d4037b0f96d51c084162dd"
   },
   "altSourceUrl": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/alt-source.json"
 }
