@@ -6,7 +6,7 @@
   "releaseNotes": "OwlHub 4.2610.145: hotfix integrità Sync, ghost, DEC e restore Backup V2 grande.",
   "windows": {
     "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2610.145/OwlHub-4.2610.145-Windows-Setup.exe",
-    "sha256": "005bfb4f9f257284c7b6fe72b7c2bffa5ffeb7d2a0c236de5044d60f90af9bd5"
+    "sha256": "685e6216e6b120f9e5a28ce63fef466ceb739a455abffbcc5a542827458bff45"
   },
   "ios": {
     "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.145/OwlHub-4.2610.145.ipa",
