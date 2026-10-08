@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2610.145",
+          "date": "2026-10-08",
+          "localizedDescription": "OwlHub 4.2610.145: hotfix integrità Sync e restore Backup V2.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.145/OwlHub-4.2610.145.ipa",
+          "size": 11993408,
+          "sha256": "92258a980a9c951e47d9343cff0842085f4c872312d4037b0f96d51c084162dd",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2610.144",
           "date": "2026-10-07",
           "localizedDescription": "OwlHub 4.2610.144: performance con storico esteso.",
