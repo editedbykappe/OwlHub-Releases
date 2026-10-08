@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2610.146",
+          "date": "2026-10-08",
+          "localizedDescription": "OwlHub 4.2610.146: statistiche Tracker, aggiornamenti, backup e categorie.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.146/OwlHub-4.2610.146.ipa",
+          "size": 11997765,
+          "sha256": "cf335dc84ae41fbddfe0282cf22c28e52f8fe81fbd5eed419694d79c4886c54e",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2610.145",
           "date": "2026-10-08",
           "localizedDescription": "OwlHub 4.2610.145: hotfix integrità Sync e restore Backup V2.",
