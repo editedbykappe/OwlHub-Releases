@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2610.147",
+          "date": "2026-10-09",
+          "localizedDescription": "OwlHub 4.2610.147: Settings, statistiche Tracker e controlli Movement iOS.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.147/OwlHub-4.2610.147.ipa",
+          "size": 11953853,
+          "sha256": "5bd6323725d94bf89742e2b7045f2b94d86c93c611dc3d701f1cb0d3e63923e4",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2610.146",
           "date": "2026-10-08",
           "localizedDescription": "OwlHub 4.2610.146: statistiche Tracker, aggiornamenti, backup e categorie.",
