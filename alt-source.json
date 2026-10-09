@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2610.149",
+          "date": "2026-10-09",
+          "localizedDescription": "OwlHub 4.2610.149: selettori Movement sempre visibili e statistiche senza flash.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.149/OwlHub-4.2610.149.ipa",
+          "size": 11964352,
+          "sha256": "5b1bddf25a68341da25ed83ac066b4d5ac81f967dbca761fbccb01ac249fa410",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2610.148",
           "date": "2026-10-09",
           "localizedDescription": "OwlHub 4.2610.148: rendering dei selettori Movement iOS e sliding statistiche.",
