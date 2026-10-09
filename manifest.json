@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "4.2610.148",
-  "buildNumber": 148,
-  "publishedAt": "2026-10-09T10:37:10Z",
-  "releaseNotes": "OwlHub 4.2610.148: rendering dei selettori Movement iOS e sliding statistiche.",
+  "latestVersion": "4.2610.149",
+  "buildNumber": 149,
+  "publishedAt": "2026-10-09T16:55:37Z",
+  "releaseNotes": "OwlHub 4.2610.149: selettori Movement sempre visibili e statistiche senza flash.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2610.148/OwlHub-4.2610.148-Windows-Setup.exe",
-    "sha256": "37aa0a9a2d865ea831865890c3b5a2da161314068bd6ac3e2989bc6d82b7178f"
+    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2610.149/OwlHub-4.2610.149-Windows-Setup.exe",
+    "sha256": "db7ac2a99c0c472e668cd7378f29498982a703e6fdcdd881a7868fc2ace52679"
   },
   "ios": {
-    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.148/OwlHub-4.2610.148.ipa",
-    "sha256": "e22f703bfcc2eb0b9f7d72c3eb4f7da6a72e8d96817e543cc94c98f43049dec0"
+    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.149/OwlHub-4.2610.149.ipa",
+    "sha256": "5b1bddf25a68341da25ed83ac066b4d5ac81f967dbca761fbccb01ac249fa410"
   },
   "altSourceUrl": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/alt-source.json"
 }
