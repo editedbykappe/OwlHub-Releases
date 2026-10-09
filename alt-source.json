@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2610.148",
+          "date": "2026-10-09",
+          "localizedDescription": "OwlHub 4.2610.148: rendering dei selettori Movement iOS e sliding statistiche.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.148/OwlHub-4.2610.148.ipa",
+          "size": 11961501,
+          "sha256": "e22f703bfcc2eb0b9f7d72c3eb4f7da6a72e8d96817e543cc94c98f43049dec0",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2610.147",
           "date": "2026-10-09",
           "localizedDescription": "OwlHub 4.2610.147: Settings, statistiche Tracker e controlli Movement iOS.",
