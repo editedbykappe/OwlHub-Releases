@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2610.150",
+          "date": "2026-10-11",
+          "localizedDescription": "OwlHub 4.2610.150: sync ACK, validazione scontrino e titolo iOS corretti; analisi parallela.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.150/OwlHub-4.2610.150.ipa",
+          "size": 11967790,
+          "sha256": "4f66003878d7c9009cdf22463433b7b8c2181bea7ca90b8f4ac157b0c8fc3de5",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2610.149",
           "date": "2026-10-09",
           "localizedDescription": "OwlHub 4.2610.149: selettori Movement sempre visibili e statistiche senza flash.",
