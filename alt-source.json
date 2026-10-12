@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2610.151",
+          "date": "2026-10-12",
+          "localizedDescription": "OwlHub 4.2610.151: titolo Movement iOS e azioni ricerca immediate.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.151/OwlHub-4.2610.151.ipa",
+          "size": 11967013,
+          "sha256": "4be8af251741fd34493b470bc4f2429ad069fc4ab10c86cf3a83f6ec73ceeee6",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2610.150",
           "date": "2026-10-11",
           "localizedDescription": "OwlHub 4.2610.150: sync ACK, validazione scontrino e titolo iOS corretti; analisi parallela.",
