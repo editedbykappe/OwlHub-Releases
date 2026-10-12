@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "4.2610.150",
-  "buildNumber": 150,
-  "publishedAt": "2026-10-11T12:11:22Z",
-  "releaseNotes": "OwlHub 4.2610.150: sync ACK, validazione scontrino e titolo iOS corretti; analisi parallela.",
+  "latestVersion": "4.2610.151",
+  "buildNumber": 151,
+  "publishedAt": "2026-10-12T16:29:06Z",
+  "releaseNotes": "OwlHub 4.2610.151: titolo Movement iOS e azioni ricerca immediate.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2610.150/OwlHub-4.2610.150-Windows-Setup.exe",
-    "sha256": "c386cccfdc60fe3a19f2a8e0470ab2bc5304a53934bbecf99a01fe14a3e180e5"
+    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2610.151/OwlHub-4.2610.151-Windows-Setup.exe",
+    "sha256": "51d238d95bf0fc68b8ce256600912f5e9cb732c613520255fa94257c4c7e6e9f"
   },
   "ios": {
-    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.150/OwlHub-4.2610.150.ipa",
-    "sha256": "4f66003878d7c9009cdf22463433b7b8c2181bea7ca90b8f4ac157b0c8fc3de5"
+    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.151/OwlHub-4.2610.151.ipa",
+    "sha256": "4be8af251741fd34493b470bc4f2429ad069fc4ab10c86cf3a83f6ec73ceeee6"
   },
   "altSourceUrl": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/alt-source.json"
 }
