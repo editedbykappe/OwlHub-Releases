@@ -1,0 +1,13 @@
+{
+  "version": "4.2610.152",
+  "buildVersion": "152",
+  "name": "OwlHub",
+  "platform": "ios",
+  "fileName": "OwlHub-4.2610.152.ipa",
+  "size": 11978729,
+  "sha256": "112f05c8e24f06187ae9839966fce8855bce9023493ed468760afdd2ff6b2e42",
+  "publicUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.152/OwlHub-4.2610.152.ipa",
+  "publishable": true,
+  "bundleIdentifier": "com.kapegufeto.owltracker",
+  "codemagicBuildId": "6ad281315288fdb5a858fac0"
+}

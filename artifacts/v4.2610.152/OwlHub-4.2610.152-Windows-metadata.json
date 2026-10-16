@@ -1,0 +1,11 @@
+{
+  "version": "4.2610.152",
+  "buildVersion": "152",
+  "name": "OwlHub",
+  "platform": "windows",
+  "fileName": "OwlHub-4.2610.152-Windows-Setup.exe",
+  "size": 14529144,
+  "sha256": "cdb8b07a82c77206af704805c532c7aada66e42a4e0227d5e130c75beb7a68e7",
+  "publicUrl": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2610.152/OwlHub-4.2610.152-Windows-Setup.exe",
+  "publishable": true
+}
