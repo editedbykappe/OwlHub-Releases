@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "4.2610.151",
-  "buildNumber": 151,
-  "publishedAt": "2026-10-12T16:29:06Z",
-  "releaseNotes": "OwlHub 4.2610.151: titolo Movement iOS e azioni ricerca immediate.",
+  "latestVersion": "4.2610.152",
+  "buildNumber": 152,
+  "publishedAt": "2026-10-16T20:17:35Z",
+  "releaseNotes": "OwlHub 4.2610.152: selettore condiviso Home/Statistiche, riepilogo annuale e periodi categoria corretti.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2610.151/OwlHub-4.2610.151-Windows-Setup.exe",
-    "sha256": "51d238d95bf0fc68b8ce256600912f5e9cb732c613520255fa94257c4c7e6e9f"
+    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2610.152/OwlHub-4.2610.152-Windows-Setup.exe",
+    "sha256": "cdb8b07a82c77206af704805c532c7aada66e42a4e0227d5e130c75beb7a68e7"
   },
   "ios": {
-    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.151/OwlHub-4.2610.151.ipa",
-    "sha256": "4be8af251741fd34493b470bc4f2429ad069fc4ab10c86cf3a83f6ec73ceeee6"
+    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.152/OwlHub-4.2610.152.ipa",
+    "sha256": "112f05c8e24f06187ae9839966fce8855bce9023493ed468760afdd2ff6b2e42"
   },
   "altSourceUrl": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/alt-source.json"
 }
