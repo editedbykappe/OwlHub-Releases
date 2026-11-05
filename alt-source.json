@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2611.7",
+          "date": "2026-11-05",
+          "localizedDescription": "OwlHub 4.2611.7: Impostazioni e profilo globali, Face ID, shortcut iOS e prima infrastruttura WidgetKit. OwlTracker rimane 4.2610.152.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.7/OwlHub-unsigned.ipa",
+          "size": 12713094,
+          "sha256": "2e0d2f3bddd9cb4fcae0df441fe03d0bb8c9f082bfbe2d3a47ed15102e9e67ad",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2610.152",
           "date": "2026-10-16",
           "localizedDescription": "OwlHub 4.2610.152: selettore condiviso Home/Statistiche, riepilogo annuale e periodi categoria corretti.",

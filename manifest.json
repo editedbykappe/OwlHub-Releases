@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "4.2610.153",
-  "buildNumber": 153,
-  "publishedAt": "2026-10-20T14:42:37Z",
-  "releaseNotes": "OwlHub 4.2610.153: Splash con branding OwlHub, Face ID durante Splash e transizioni Home ↔ OwlTracker nel percorso iOS Home preview sperimentale. OwlTracker rimane 4.2610.152.",
+  "latestVersion": "4.2611.7",
+  "buildNumber": 154,
+  "publishedAt": "2026-11-05T20:15:21Z",
+  "releaseNotes": "OwlHub 4.2611.7: Impostazioni e profilo globali, Face ID e aggiornamenti globali, shortcut iOS e prima infrastruttura WidgetKit; single-instance, taskbar, System Tray e launcher OwlTracker migliorati su Windows. OwlTracker rimane 4.2610.152.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2610.153/OwlHub-4.2610.153-Windows-Setup.exe",
-    "sha256": "6f46e558c8bf19b348595b793ff44d91af5dfd70710d769a8aeed27c008b3e0a"
+    "url": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.7/OwlHub-4.2611.7-Windows-Setup.exe",
+    "sha256": "7d112beda830737d22f99236b15577641e402d08d5d00ac9b3e468b5a54ffa1e"
   },
   "ios": {
-    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2610.153/OwlHub-unsigned.ipa",
-    "sha256": "9d010898102461d83d4a543128aa4345881a7c7a43e38b661fc0f64761ed1126"
+    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.7/OwlHub-unsigned.ipa",
+    "sha256": "2e0d2f3bddd9cb4fcae0df441fe03d0bb8c9f082bfbe2d3a47ed15102e9e67ad"
   },
   "altSourceUrl": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/alt-source.json"
 }
