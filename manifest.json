@@ -5,7 +5,7 @@
   "publishedAt": "2026-11-05T20:15:21Z",
   "releaseNotes": "OwlHub 4.2611.7: Impostazioni e profilo globali, Face ID e aggiornamenti globali, shortcut iOS e prima infrastruttura WidgetKit; single-instance, taskbar, System Tray e launcher OwlTracker migliorati su Windows. OwlTracker rimane 4.2610.152.",
   "windows": {
-    "url": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.7/OwlHub-4.2611.7-Windows-Setup.exe",
+    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2611.7/OwlHub-4.2611.7-Windows-Setup.exe",
     "sha256": "7d112beda830737d22f99236b15577641e402d08d5d00ac9b3e468b5a54ffa1e"
   },
   "ios": {
