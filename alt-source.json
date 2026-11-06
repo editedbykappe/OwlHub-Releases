@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2611.8",
+          "date": "2026-11-06",
+          "localizedDescription": "OwlHub 4.2611.8+155: Widget OwlHub 2×2, nuova icona OwlTracker, routing Widget/Comandi Rapidi e miglioramenti a Home, Impostazioni e aggiornamenti. OwlTracker rimane 4.2610.152.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.8/OwlHub-unsigned.ipa",
+          "size": 12729165,
+          "sha256": "48c2efc58c33c37258382d89cb4f591a0a9a14aba4d3e48d15d7c0664e779c78",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2611.7",
           "date": "2026-11-05",
           "localizedDescription": "OwlHub 4.2611.7: Impostazioni e profilo globali, Face ID, shortcut iOS e prima infrastruttura WidgetKit. OwlTracker rimane 4.2610.152.",
