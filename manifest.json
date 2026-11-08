@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "4.2611.11",
-  "buildNumber": 158,
-  "publishedAt": "2026-11-08T14:45:24Z",
-  "releaseNotes": "OwlHub 4.2611.11+158: profilo condiviso Home/OwlTracker con email della sessione autorizzata; ESCI DALL'ACCOUNT su Windows e iOS; superficie iniziale e fade cold OwlTracker Windows uniformati, highlight del saluto rimosso. WidgetKit: percorso di caricamento PNG esplicito dal bundle tramite UIKit, con fallback visibile OwlTracker; rendering su iPhone ancora da verificare. Il riavvio automatico Windows dopo aggiornamento rimane aperto. OwlTracker rimane 4.2610.152; OwlSchedule rimane 4.2610.1.",
+  "latestVersion": "4.2611.12",
+  "buildNumber": 159,
+  "publishedAt": "2026-11-08T19:37:13Z",
+  "releaseNotes": "Home e Impostazioni migliorate; nuova interfaccia aggiornamenti; animazioni e navigazione OwlTracker perfezionate. Windows: installer con opzione Apri OwlHub e maggiore compatibilità del rilancio. iOS: widget e interfaccia condivisa migliorati.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2611.11/OwlHub-4.2611.11-Windows-Setup.exe",
-    "sha256": "f191746382b6312b4380fba4707b94070c4533ed91e32d3a216dcf79a5f6732b"
+    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2611.12/OwlHub-4.2611.12-Windows-Setup.exe",
+    "sha256": "f4fb215542f80aacb4d60b192b440f42d1b13c0c1102a201b666ffac3ff44ef0"
   },
   "ios": {
-    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.11/OwlHub-unsigned.ipa",
-    "sha256": "2ea1deeeb1feb361d72f9b451afe3c1461ef325060d547c9a7062a7e6e6363c6"
+    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.12/OwlHub-unsigned.ipa",
+    "sha256": "f849aa99c30cc54584f259bb897f42fa506f5199d16b429948fe1731fd059b69"
   },
   "altSourceUrl": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/alt-source.json"
 }
