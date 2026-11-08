@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "4.2611.9",
-  "buildNumber": 156,
-  "publishedAt": "2026-11-06T17:32:10Z",
-  "releaseNotes": "OwlHub 4.2611.9+156: profilo globale locale condiviso tra Home e OwlTracker, Impostazioni e navigazione migliorate; apertura Windows del modulo e lifecycle consolidati; WidgetKit, routing e splash iOS migliorati. OwlTracker rimane 4.2610.152; OwlSchedule rimane 4.2610.1. Limiti iOS noti: un URL tardivo può ancora mostrare Home intermedia e il ritorno dall'app switcher senza URL pendente può mostrare Home.",
+  "latestVersion": "4.2611.10",
+  "buildNumber": 157,
+  "publishedAt": "2026-11-08T10:58:12Z",
+  "releaseNotes": "OwlHub 4.2611.10+157: badge e popup aggiornamenti iOS, card e changelog corretti; riavvio aggiornamento Windows, profilo condiviso Home/OwlTracker, Impostazioni, apertura cold e hover corretti; nuovo PNG completo nello slot WidgetKit OwlTracker. OwlTracker rimane 4.2610.152; OwlSchedule rimane 4.2610.1. La visibilità del widget e la continuità dei dati su iPhone richiedono verifica sul dispositivo.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2611.9/OwlHub-4.2611.9-Windows-Setup.exe",
-    "sha256": "6f22a09adb5cdf552828511d40233a58c478174cdc23045e6fc9ea77a8b5f671"
+    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2611.10/OwlHub-4.2611.10-Windows-Setup.exe",
+    "sha256": "0a02739928fde19a5b49cc1b530f097ded993d8c8cd6e934e4890a7a8870498a"
   },
   "ios": {
-    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.9/OwlHub-unsigned.ipa",
-    "sha256": "77a349cf44578a8cca3489661c3a12c88194bb1a0498e705f95ea1baf2bd04fa"
+    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.10/OwlHub-unsigned.ipa",
+    "sha256": "086d46d871d565d4b4b7ad08eb5f51197cb595964d54a436386569a6557cf9f9"
   },
   "altSourceUrl": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/alt-source.json"
 }
