@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2611.11",
+          "date": "2026-11-08",
+          "localizedDescription": "OwlHub 4.2611.11+158: profilo condiviso Home/OwlTracker con email della sessione autorizzata; ESCI DALL'ACCOUNT su Windows e iOS; superficie iniziale e fade cold OwlTracker Windows uniformati, highlight del saluto rimosso. WidgetKit: percorso di caricamento PNG esplicito dal bundle tramite UIKit, con fallback visibile OwlTracker; rendering su iPhone ancora da verificare. Il riavvio automatico Windows dopo aggiornamento rimane aperto. OwlTracker rimane 4.2610.152; OwlSchedule rimane 4.2610.1.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.11/OwlHub-unsigned.ipa",
+          "size": 12743066,
+          "sha256": "2ea1deeeb1feb361d72f9b451afe3c1461ef325060d547c9a7062a7e6e6363c6",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2611.10",
           "date": "2026-11-08",
           "localizedDescription": "OwlHub 4.2611.10+157: aggiornamenti e profilo globale corretti, Impostazioni e apertura OwlTracker migliorate; nuovo PNG WidgetKit OwlTracker. OwlTracker rimane 4.2610.152.",
