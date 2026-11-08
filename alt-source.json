@@ -14,6 +14,16 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2611.12",
+          "buildVersion": "159",
+          "date": "2026-11-08",
+          "localizedDescription": "Home e Impostazioni migliorate; nuova interfaccia aggiornamenti; animazioni e navigazione OwlTracker perfezionate. Windows: installer con opzione Apri OwlHub e maggiore compatibilità del rilancio. iOS: widget e interfaccia condivisa migliorati.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.12/OwlHub-unsigned.ipa",
+          "size": 12754194,
+          "sha256": "f849aa99c30cc54584f259bb897f42fa506f5199d16b429948fe1731fd059b69",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2611.11",
           "date": "2026-11-08",
           "localizedDescription": "OwlHub 4.2611.11+158: profilo condiviso Home/OwlTracker con email della sessione autorizzata; ESCI DALL'ACCOUNT su Windows e iOS; superficie iniziale e fade cold OwlTracker Windows uniformati, highlight del saluto rimosso. WidgetKit: percorso di caricamento PNG esplicito dal bundle tramite UIKit, con fallback visibile OwlTracker; rendering su iPhone ancora da verificare. Il riavvio automatico Windows dopo aggiornamento rimane aperto. OwlTracker rimane 4.2610.152; OwlSchedule rimane 4.2610.1.",
