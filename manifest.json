@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "4.2611.10",
-  "buildNumber": 157,
-  "publishedAt": "2026-11-08T10:58:12Z",
-  "releaseNotes": "OwlHub 4.2611.10+157: badge e popup aggiornamenti iOS, card e changelog corretti; riavvio aggiornamento Windows, profilo condiviso Home/OwlTracker, Impostazioni, apertura cold e hover corretti; nuovo PNG completo nello slot WidgetKit OwlTracker. OwlTracker rimane 4.2610.152; OwlSchedule rimane 4.2610.1. La visibilità del widget e la continuità dei dati su iPhone richiedono verifica sul dispositivo.",
+  "latestVersion": "4.2611.11",
+  "buildNumber": 158,
+  "publishedAt": "2026-11-08T14:45:24Z",
+  "releaseNotes": "OwlHub 4.2611.11+158: profilo condiviso Home/OwlTracker con email della sessione autorizzata; ESCI DALL'ACCOUNT su Windows e iOS; superficie iniziale e fade cold OwlTracker Windows uniformati, highlight del saluto rimosso. WidgetKit: percorso di caricamento PNG esplicito dal bundle tramite UIKit, con fallback visibile OwlTracker; rendering su iPhone ancora da verificare. Il riavvio automatico Windows dopo aggiornamento rimane aperto. OwlTracker rimane 4.2610.152; OwlSchedule rimane 4.2610.1.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2611.10/OwlHub-4.2611.10-Windows-Setup.exe",
-    "sha256": "0a02739928fde19a5b49cc1b530f097ded993d8c8cd6e934e4890a7a8870498a"
+    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2611.11/OwlHub-4.2611.11-Windows-Setup.exe",
+    "sha256": "f191746382b6312b4380fba4707b94070c4533ed91e32d3a216dcf79a5f6732b"
   },
   "ios": {
-    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.10/OwlHub-unsigned.ipa",
-    "sha256": "086d46d871d565d4b4b7ad08eb5f51197cb595964d54a436386569a6557cf9f9"
+    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.11/OwlHub-unsigned.ipa",
+    "sha256": "2ea1deeeb1feb361d72f9b451afe3c1461ef325060d547c9a7062a7e6e6363c6"
   },
   "altSourceUrl": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/alt-source.json"
 }
