@@ -14,6 +14,16 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2611.13",
+          "buildVersion": "160",
+          "date": "2026-11-09",
+          "localizedDescription": "Home, profilo e Impostazioni migliorati; aggiornamenti sempre accessibili, icona inattiva corretta e navigazione OwlTracker perfezionata. Windows: email nelle Impostazioni e voce tray Mostra OwlHub. OwlTracker 4.2610.152; OwlSchedule 4.2610.1.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.13/OwlHub-unsigned.ipa",
+          "size": 12755554,
+          "sha256": "c689805306ecc8a43531765f342f2817d0f755c3f8b69587e421bbffaeae1d07",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2611.12",
           "buildVersion": "159",
           "date": "2026-11-08",
