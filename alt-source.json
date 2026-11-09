@@ -14,6 +14,16 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2611.15",
+          "buildVersion": "167",
+          "date": "2026-11-09",
+          "localizedDescription": "Nuovo versionamento cumulativo dei pacchetti tecnici, ricerca aggiornamenti manuale e feedback migliorato. OwlIntelligence, finestra aggiornamenti, ritorno alla Home e conferma logout uniformati. L'acceptance visiva su iPhone resta da completare. OwlTracker 4.2610.152; OwlSchedule 4.2610.1.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.15.167/OwlHub-unsigned.ipa",
+          "size": 12766773,
+          "sha256": "1ce5e9b7c13a95e5ea91a7af5d425345bcfae2213b20048ca962a907118637a1",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2611.14",
           "buildVersion": "161",
           "date": "2026-11-09",
