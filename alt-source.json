@@ -14,6 +14,16 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2611.16",
+          "buildVersion": "168",
+          "date": "2026-11-09",
+          "localizedDescription": "Migliorata la verifica manuale degli aggiornamenti e il feedback visivo. iOS: Pull-to-Refresh nelle Impostazioni con trascinamento e animazioni di rilascio. Windows: pulsante manuale e conferma visiva aggiornati. L'acceptance su iPhone resta da completare. OwlTracker 4.2610.152; OwlSchedule 4.2610.1.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.16.168/OwlHub-unsigned.ipa",
+          "size": 12767191,
+          "sha256": "660c86fde6dbc498484d951cf50c0c228c41094d84e70e7a8e6e5deb5187fa65",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2611.15",
           "buildVersion": "167",
           "date": "2026-11-09",
