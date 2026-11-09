@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "4.2611.15",
-  "buildNumber": 167,
-  "publishedAt": "2026-11-09T14:13:21Z",
-  "releaseNotes": "Nuovo versionamento cumulativo dei pacchetti tecnici, ricerca aggiornamenti manuale e feedback migliorato. OwlIntelligence, finestra aggiornamenti, ritorno alla Home e conferma logout uniformati. OwlTracker 4.2610.152; OwlSchedule 4.2610.1.",
+  "latestVersion": "4.2611.16",
+  "buildNumber": 168,
+  "publishedAt": "2026-11-09T19:36:07Z",
+  "releaseNotes": "Ottimizzata la finestra aggiornamenti e migliorata la verifica manuale con feedback visivo uniforme. iOS introduce Pull-to-Refresh nelle Impostazioni con trascinamento e animazioni di rilascio; Windows mantiene il controllo manuale con conferma visiva migliorata. OwlTracker 4.2610.152; OwlSchedule 4.2610.1.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2611.15.167/OwlHub-4.2611.15.167-Windows-Setup.exe",
-    "sha256": "793ca90736c74f29ad6ba1abb9aa3b7fcfa46070b523336bfd7ac9da60c1cff7"
+    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2611.16.168/OwlHub-4.2611.16.168-Windows-Setup.exe",
+    "sha256": "1bbd152b3990997ee1387bc0ead3ac3e5c3f651df31a3f5f462112b1713dcda0"
   },
   "ios": {
-    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.15.167/OwlHub-unsigned.ipa",
-    "sha256": "1ce5e9b7c13a95e5ea91a7af5d425345bcfae2213b20048ca962a907118637a1"
+    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.16.168/OwlHub-unsigned.ipa",
+    "sha256": "660c86fde6dbc498484d951cf50c0c228c41094d84e70e7a8e6e5deb5187fa65"
   },
   "altSourceUrl": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/alt-source.json"
 }
