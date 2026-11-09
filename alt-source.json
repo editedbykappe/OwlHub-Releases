@@ -14,6 +14,16 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2611.14",
+          "buildVersion": "161",
+          "date": "2026-11-09",
+          "localizedDescription": "Changelog aggiornamenti più chiari e compatti, con elementi generici rimossi e stato uniforme. Migliorati dialog logout, navigazione tra OwlTracker e Impostazioni OwlHub e animazioni Windows/iOS. L'acceptance visiva su iPhone resta da completare. OwlTracker 4.2610.152; OwlSchedule 4.2610.1.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.14/OwlHub-unsigned.ipa",
+          "size": 12762082,
+          "sha256": "451aff7ba4bb77ae05018ba13dbde3b223041b93cfff132dcee76aee7dfc87c7",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2611.13",
           "buildVersion": "160",
           "date": "2026-11-09",
