@@ -1,16 +1,37 @@
 {
   "schemaVersion": 1,
   "latestVersion": "4.2611.16",
-  "buildNumber": 168,
-  "publishedAt": "2026-11-09T19:36:07Z",
-  "releaseNotes": "Ottimizzata la finestra aggiornamenti e migliorata la verifica manuale con feedback visivo uniforme. iOS introduce Pull-to-Refresh nelle Impostazioni con trascinamento e animazioni di rilascio; Windows mantiene il controllo manuale con conferma visiva migliorata. OwlTracker 4.2610.152; OwlSchedule 4.2610.1.",
+  "buildNumber": 169,
+  "publishedAt": "2026-11-10T22:31:10.978Z",
+  "releaseNotes": "Nuovo Centro di Controllo con preferenze personalizzabili. Nuova visualizzazione DEC su iOS con indicatori, totali e profitto. Home migliorata con ricerca, accesso alle ultime Movement e navigazione più fluida. Selezione immediata e riordinamento manuale dei Tracker, con blocco dell’ordine. Statistiche e riepilogo annuale migliorati. Interazioni con le Movement e navigazione tra le schermate perfezionate. OwlHub 4.2611.16 e OwlSchedule 4.2610.1 restano alle rispettive versioni funzionali.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2611.16.168/OwlHub-4.2611.16.168-Windows-Setup.exe",
-    "sha256": "1bbd152b3990997ee1387bc0ead3ac3e5c3f651df31a3f5f462112b1713dcda0"
+    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2611.16.169/OwlHub-4.2611.16.169-Windows-Setup.exe",
+    "sha256": "a916c3b78982ca57656e014584a088a191976b4d943e39aca708a989f6418f76"
   },
   "ios": {
-    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.16.168/OwlHub-unsigned.ipa",
-    "sha256": "660c86fde6dbc498484d951cf50c0c228c41094d84e70e7a8e6e5deb5187fa65"
+    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.16.169/OwlHub-unsigned.ipa",
+    "sha256": "72a0dc0959c3ef58b232320e9f2f3a25264fd704c80fe4b30250629be74db217"
   },
-  "altSourceUrl": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/alt-source.json"
+  "altSourceUrl": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/alt-source.json",
+  "components": [
+    {
+      "name": "OwlHub",
+      "version": "4.2611.16",
+      "changes": [
+        "Pacchetto OwlHub aggiornato alla build 169 con OwlTracker 4.2610.153."
+      ]
+    },
+    {
+      "name": "OwlTracker",
+      "version": "4.2610.153",
+      "changes": [
+        "Nuovo Centro di Controllo con preferenze personalizzabili.",
+        "Nuova visualizzazione DEC su iOS con indicatori, totali e profitto.",
+        "Home migliorata con ricerca, accesso alle ultime Movement e navigazione più fluida.",
+        "Selezione immediata e riordinamento manuale dei Tracker, con blocco dell’ordine.",
+        "Statistiche e riepilogo annuale migliorati.",
+        "Interazioni con le Movement e navigazione tra le schermate perfezionate."
+      ]
+    }
+  ]
 }
