@@ -15,6 +15,16 @@
       "versions": [
         {
           "version": "4.2611.16",
+          "buildVersion": "169",
+          "date": "2026-11-10",
+          "localizedDescription": "Nuovo Centro di Controllo con preferenze personalizzabili. Nuova visualizzazione DEC su iOS con indicatori, totali e profitto. Home migliorata con ricerca, accesso alle ultime Movement e navigazione più fluida. Selezione immediata e riordinamento manuale dei Tracker, con blocco dell’ordine. Statistiche e riepilogo annuale migliorati. Interazioni con le Movement e navigazione tra le schermate perfezionate.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.16.169/OwlHub-unsigned.ipa",
+          "size": 12835166,
+          "sha256": "72a0dc0959c3ef58b232320e9f2f3a25264fd704c80fe4b30250629be74db217",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "4.2611.16",
           "buildVersion": "168",
           "date": "2026-11-09",
           "localizedDescription": "Migliorata la verifica manuale degli aggiornamenti e il feedback visivo. iOS: Pull-to-Refresh nelle Impostazioni con trascinamento e animazioni di rilascio. Windows: pulsante manuale e conferma visiva aggiornati. L'acceptance su iPhone resta da completare. OwlTracker 4.2610.152; OwlSchedule 4.2610.1.",
