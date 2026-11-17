@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "latestVersion": "4.2611.16",
-  "buildNumber": 169,
-  "publishedAt": "2026-11-10T22:31:10.978Z",
-  "releaseNotes": "Nuovo Centro di Controllo con preferenze personalizzabili. Nuova visualizzazione DEC su iOS con indicatori, totali e profitto. Home migliorata con ricerca, accesso alle ultime Movement e navigazione più fluida. Selezione immediata e riordinamento manuale dei Tracker, con blocco dell’ordine. Statistiche e riepilogo annuale migliorati. Interazioni con le Movement e navigazione tra le schermate perfezionate. OwlHub 4.2611.16 e OwlSchedule 4.2610.1 restano alle rispettive versioni funzionali.",
+  "buildNumber": 170,
+  "publishedAt": "2026-11-17T11:12:41.926Z",
+  "releaseNotes": "Su iOS la Disponibilità Economica riunisce due viste in un unico pannello, con indicatori interni e sfondo del PROFITTO che segue il segno del valore. Il pannello resta visibile anche in Tracker. Il passaggio tra Home, Statistiche e Tracker mantiene stabili i controlli condivisi. Su iOS il pulsante Ricerca e la freccia per le ultime Movement sono più compatti. La freccia ha un’ombra e la dock resta ferma quando si apre la ricerca. Il menu Tracker dedica tutta la larghezza ad ANNULLA quando si seleziona un Tracker. Il riordino manuale e il blocco dell’ordine restano disponibili. Il riepilogo annuale su iOS ha titoli più leggibili. Il feedback visivo delle Movement è confinato alle rispettive schede. Le card aggiornamenti distinguono le versioni funzionali dei moduli dalla versione tecnica del pacchetto. Su Windows le finestre Home e Tracker sono più alte di 18 pixel al 100% di ridimensionamento, nei limiti dell’area di lavoro. OwlHub 4.2611.16 e OwlSchedule 4.2610.1 mantengono le rispettive versioni funzionali.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2611.16.169/OwlHub-4.2611.16.169-Windows-Setup.exe",
-    "sha256": "a916c3b78982ca57656e014584a088a191976b4d943e39aca708a989f6418f76"
+    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2611.16.170/OwlHub-4.2611.16.170-Windows-Setup.exe",
+    "sha256": "40d670e46866a03857fb47d6b23f10490ae569c09bf4a270b3856eee54c3d533"
   },
   "ios": {
-    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.16.169/OwlHub-unsigned.ipa",
-    "sha256": "72a0dc0959c3ef58b232320e9f2f3a25264fd704c80fe4b30250629be74db217"
+    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.16.170/OwlHub-unsigned.ipa",
+    "sha256": "6d9c720abe43b84207864baaa06e53427bcb29de2f1e3b38c7477e2a0ae0afa0"
   },
   "altSourceUrl": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/alt-source.json",
   "components": [
@@ -18,19 +18,27 @@
       "name": "OwlHub",
       "version": "4.2611.16",
       "changes": [
-        "Pacchetto OwlHub aggiornato alla build 169 con OwlTracker 4.2610.153."
+        "Versione funzionale invariata."
       ]
     },
     {
       "name": "OwlTracker",
-      "version": "4.2610.153",
+      "version": "4.2611.154",
       "changes": [
-        "Nuovo Centro di Controllo con preferenze personalizzabili.",
-        "Nuova visualizzazione DEC su iOS con indicatori, totali e profitto.",
-        "Home migliorata con ricerca, accesso alle ultime Movement e navigazione più fluida.",
-        "Selezione immediata e riordinamento manuale dei Tracker, con blocco dell’ordine.",
-        "Statistiche e riepilogo annuale migliorati.",
-        "Interazioni con le Movement e navigazione tra le schermate perfezionate."
+        "Su iOS la Disponibilità Economica riunisce due viste in un unico pannello, con indicatori interni e sfondo del PROFITTO che segue il segno del valore. Il pannello resta visibile anche in Tracker.",
+        "Il passaggio tra Home, Statistiche e Tracker mantiene stabili i controlli condivisi.",
+        "Su iOS il pulsante Ricerca e la freccia per le ultime Movement sono più compatti. La freccia ha un’ombra e la dock resta ferma quando si apre la ricerca.",
+        "Il menu Tracker dedica tutta la larghezza ad ANNULLA quando si seleziona un Tracker. Il riordino manuale e il blocco dell’ordine restano disponibili.",
+        "Il riepilogo annuale su iOS ha titoli più leggibili. Il feedback visivo delle Movement è confinato alle rispettive schede.",
+        "Le card aggiornamenti distinguono le versioni funzionali dei moduli dalla versione tecnica del pacchetto.",
+        "Su Windows le finestre Home e Tracker sono più alte di 18 pixel al 100% di ridimensionamento, nei limiti dell’area di lavoro."
+      ]
+    },
+    {
+      "name": "OwlSchedule",
+      "version": "4.2610.1",
+      "changes": [
+        "Versione funzionale invariata."
       ]
     }
   ]
