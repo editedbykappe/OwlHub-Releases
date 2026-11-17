@@ -15,6 +15,16 @@
       "versions": [
         {
           "version": "4.2611.16",
+          "buildVersion": "170",
+          "date": "2026-11-17",
+          "localizedDescription": "Su iOS la Disponibilità Economica riunisce due viste in un unico pannello, con indicatori interni e sfondo del PROFITTO che segue il segno del valore. Il pannello resta visibile anche in Tracker. Il passaggio tra Home, Statistiche e Tracker mantiene stabili i controlli condivisi. Su iOS il pulsante Ricerca e la freccia per le ultime Movement sono più compatti. La freccia ha un’ombra e la dock resta ferma quando si apre la ricerca. Il menu Tracker dedica tutta la larghezza ad ANNULLA quando si seleziona un Tracker. Il riordino manuale e il blocco dell’ordine restano disponibili. Il riepilogo annuale su iOS ha titoli più leggibili. Il feedback visivo delle Movement è confinato alle rispettive schede. Le card aggiornamenti distinguono le versioni funzionali dei moduli dalla versione tecnica del pacchetto. Su Windows le finestre Home e Tracker sono più alte di 18 pixel al 100% di ridimensionamento, nei limiti dell’area di lavoro.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.16.170/OwlHub-unsigned.ipa",
+          "size": 12846762,
+          "sha256": "6d9c720abe43b84207864baaa06e53427bcb29de2f1e3b38c7477e2a0ae0afa0",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "4.2611.16",
           "buildVersion": "169",
           "date": "2026-11-10",
           "localizedDescription": "Nuovo Centro di Controllo con preferenze personalizzabili. Nuova visualizzazione DEC su iOS con indicatori, totali e profitto. Home migliorata con ricerca, accesso alle ultime Movement e navigazione più fluida. Selezione immediata e riordinamento manuale dei Tracker, con blocco dell’ordine. Statistiche e riepilogo annuale migliorati. Interazioni con le Movement e navigazione tra le schermate perfezionate.",
