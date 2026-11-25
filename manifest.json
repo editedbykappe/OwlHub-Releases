@@ -1,37 +1,38 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "4.2611.16",
-  "buildNumber": 170,
-  "publishedAt": "2026-11-17T11:12:41.926Z",
-  "releaseNotes": "Su iOS la Disponibilità Economica riunisce due viste in un unico pannello, con indicatori interni e sfondo del PROFITTO che segue il segno del valore. Il pannello resta visibile anche in Tracker. Il passaggio tra Home, Statistiche e Tracker mantiene stabili i controlli condivisi. Su iOS il pulsante Ricerca e la freccia per le ultime Movement sono più compatti. La freccia ha un’ombra e la dock resta ferma quando si apre la ricerca. Il menu Tracker dedica tutta la larghezza ad ANNULLA quando si seleziona un Tracker. Il riordino manuale e il blocco dell’ordine restano disponibili. Il riepilogo annuale su iOS ha titoli più leggibili. Il feedback visivo delle Movement è confinato alle rispettive schede. Le card aggiornamenti distinguono le versioni funzionali dei moduli dalla versione tecnica del pacchetto. Su Windows le finestre Home e Tracker sono più alte di 18 pixel al 100% di ridimensionamento, nei limiti dell’area di lavoro. OwlHub 4.2611.16 e OwlSchedule 4.2610.1 mantengono le rispettive versioni funzionali.",
+  "latestVersion": "4.2611.17",
+  "buildNumber": 171,
+  "publishedAt": "2026-11-25T09:54:43.666Z",
+  "releaseNotes": "Il Centro di Controllo globale raccoglie le preferenze di OwlTracker e condivide le modifiche tra Windows e iOS con CDC V2. Il changelog è consultabile anche quando non ci sono aggiornamenti. Le card mostrano le versioni dei singoli moduli, mantengono dimensioni stabili da aperte e nascondono la barra di scorrimento. Su iOS, il profilo e le Impostazioni sono stati rifiniti. Su iOS, la Disponibilità Economica è più compatta. Le box TOTALE e PROFITTO sono ridimensionate, con nuovi indicatori e accesso all’andamento mensile. Home e Statistiche hanno spaziature riviste e transizioni più stabili per i controlli condivisi. Su Windows la DEC è nascosta nella tab Tracker. Il pulsante per tornare alle ultime Movement e il pulsante Ricerca hanno dimensioni riviste. Su iOS sono stati rifiniti anche i filtri della ricerca. Il riepilogo annuale mostra cinque mesi sui viewport compatibili, apre sul mese selezionato e lo evidenzia. Titoli e importi sono più leggibili e la barra di scorrimento è nascosta. Su iOS, le Impostazioni usano lo scorrimento elastico e il profilo ha spaziature riviste. È stato corretto il layout quando è attivo il movimento ridotto ed è presente l’avviso «SINCRONIZZAZIONE IN CORSO». Le preferenze del Centro di Controllo si sincronizzano tra dispositivi, con un intervallo di attesa indipendente per ogni voce. Se una preferenza legacy diverge dal server, OwlTracker mostra entrambi i valori e chiede una scelta prima di sincronizzarla. OwlSchedule conserva la versione 4.2610.1.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2611.16.170/OwlHub-4.2611.16.170-Windows-Setup.exe",
-    "sha256": "40d670e46866a03857fb47d6b23f10490ae569c09bf4a270b3856eee54c3d533"
+    "url": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/artifacts/v4.2611.17.171/OwlHub-4.2611.17.171-Windows-Setup.exe",
+    "sha256": "2c4db2d4274e77fb5607bca654170a68a3f2129aebfa3dbb81ef7dd8050728e0"
   },
   "ios": {
-    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.16.170/OwlHub-unsigned.ipa",
-    "sha256": "6d9c720abe43b84207864baaa06e53427bcb29de2f1e3b38c7477e2a0ae0afa0"
+    "ipaUrl": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.17.171/OwlHub-unsigned.ipa",
+    "sha256": "02dc12dbbb9a37ddba37b59d7b095857cde13e1de60559fcd475ea86ef6ea6c5"
   },
   "altSourceUrl": "https://raw.githubusercontent.com/editedbykappe/OwlHub-Releases/main/alt-source.json",
   "components": [
     {
       "name": "OwlHub",
-      "version": "4.2611.16",
+      "version": "4.2611.17",
       "changes": [
-        "Versione funzionale invariata."
+        "Il Centro di Controllo globale raccoglie le preferenze di OwlTracker e condivide le modifiche tra Windows e iOS con CDC V2.",
+        "Il changelog è consultabile anche quando non ci sono aggiornamenti. Le card mostrano le versioni dei singoli moduli, mantengono dimensioni stabili da aperte e nascondono la barra di scorrimento.",
+        "Su iOS, il profilo e le Impostazioni sono stati rifiniti."
       ]
     },
     {
       "name": "OwlTracker",
-      "version": "4.2611.154",
+      "version": "4.2611.155",
       "changes": [
-        "Su iOS la Disponibilità Economica riunisce due viste in un unico pannello, con indicatori interni e sfondo del PROFITTO che segue il segno del valore. Il pannello resta visibile anche in Tracker.",
-        "Il passaggio tra Home, Statistiche e Tracker mantiene stabili i controlli condivisi.",
-        "Su iOS il pulsante Ricerca e la freccia per le ultime Movement sono più compatti. La freccia ha un’ombra e la dock resta ferma quando si apre la ricerca.",
-        "Il menu Tracker dedica tutta la larghezza ad ANNULLA quando si seleziona un Tracker. Il riordino manuale e il blocco dell’ordine restano disponibili.",
-        "Il riepilogo annuale su iOS ha titoli più leggibili. Il feedback visivo delle Movement è confinato alle rispettive schede.",
-        "Le card aggiornamenti distinguono le versioni funzionali dei moduli dalla versione tecnica del pacchetto.",
-        "Su Windows le finestre Home e Tracker sono più alte di 18 pixel al 100% di ridimensionamento, nei limiti dell’area di lavoro."
+        "Su iOS, la Disponibilità Economica è più compatta. Le box TOTALE e PROFITTO sono ridimensionate, con nuovi indicatori e accesso all’andamento mensile.",
+        "Home e Statistiche hanno spaziature riviste e transizioni più stabili per i controlli condivisi. Su Windows la DEC è nascosta nella tab Tracker.",
+        "Il pulsante per tornare alle ultime Movement e il pulsante Ricerca hanno dimensioni riviste. Su iOS sono stati rifiniti anche i filtri della ricerca.",
+        "Il riepilogo annuale mostra cinque mesi sui viewport compatibili, apre sul mese selezionato e lo evidenzia. Titoli e importi sono più leggibili e la barra di scorrimento è nascosta.",
+        "Su iOS, le Impostazioni usano lo scorrimento elastico e il profilo ha spaziature riviste. È stato corretto il layout quando è attivo il movimento ridotto ed è presente l’avviso «SINCRONIZZAZIONE IN CORSO».",
+        "Le preferenze del Centro di Controllo si sincronizzano tra dispositivi, con un intervallo di attesa indipendente per ogni voce. Se una preferenza legacy diverge dal server, OwlTracker mostra entrambi i valori e chiede una scelta prima di sincronizzarla."
       ]
     },
     {
