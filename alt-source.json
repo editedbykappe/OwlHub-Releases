@@ -14,6 +14,16 @@
       "category": "finance",
       "versions": [
         {
+          "version": "4.2611.17",
+          "buildVersion": "171",
+          "date": "2026-11-25",
+          "localizedDescription": "Il Centro di Controllo globale raccoglie le preferenze di OwlTracker e condivide le modifiche tra Windows e iOS con CDC V2. Il changelog è consultabile anche quando non ci sono aggiornamenti. Le card mostrano le versioni dei singoli moduli, mantengono dimensioni stabili da aperte e nascondono la barra di scorrimento. Su iOS, il profilo e le Impostazioni sono stati rifiniti. Su iOS, la Disponibilità Economica è più compatta. Le box TOTALE e PROFITTO sono ridimensionate, con nuovi indicatori e accesso all’andamento mensile. Home e Statistiche hanno spaziature riviste e transizioni più stabili per i controlli condivisi. Su Windows la DEC è nascosta nella tab Tracker. Il pulsante per tornare alle ultime Movement e il pulsante Ricerca hanno dimensioni riviste. Su iOS sono stati rifiniti anche i filtri della ricerca. Il riepilogo annuale mostra cinque mesi sui viewport compatibili, apre sul mese selezionato e lo evidenzia. Titoli e importi sono più leggibili e la barra di scorrimento è nascosta. Su iOS, le Impostazioni usano lo scorrimento elastico e il profilo ha spaziature riviste. È stato corretto il layout quando è attivo il movimento ridotto ed è presente l’avviso «SINCRONIZZAZIONE IN CORSO». Le preferenze del Centro di Controllo si sincronizzano tra dispositivi, con un intervallo di attesa indipendente per ogni voce. Se una preferenza legacy diverge dal server, OwlTracker mostra entrambi i valori e chiede una scelta prima di sincronizzarla. OwlSchedule conserva la versione 4.2610.1.",
+          "downloadURL": "https://github.com/editedbykappe/OwlHub-Releases/releases/download/v4.2611.17.171/OwlHub-unsigned.ipa",
+          "size": 12854081,
+          "sha256": "02dc12dbbb9a37ddba37b59d7b095857cde13e1de60559fcd475ea86ef6ea6c5",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "4.2611.16",
           "buildVersion": "170",
           "date": "2026-11-17",
